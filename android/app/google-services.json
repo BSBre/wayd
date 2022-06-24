@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "263273102631",
+    "firebase_url": "https://wayd-d9e1a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "wayd-d9e1a",
+    "storage_bucket": "wayd-d9e1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263273102631:android:b5bfc7386513caec23bd02",
+        "android_client_info": {
+          "package_name": "com.waydchat.waydchat.waydchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263273102631-07mr4i38vucovbr7cu9hk50kqvl80t90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4lINMiNWN6zmymrZzp1zqeNP-13UxPPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "263273102631-07mr4i38vucovbr7cu9hk50kqvl80t90.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "263273102631-bo1s761mftkk00b8tkg3fd18vrv9gri0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.wayd"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

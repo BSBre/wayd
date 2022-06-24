@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>263273102631-j9dkefpo530tvqvqdjge4locv0r651u6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.263273102631-j9dkefpo530tvqvqdjge4locv0r651u6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBZASbby1b3xe4HbPK1UjlFWcTQ4hP8pIk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>263273102631</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.waydchat.waydchat.waydchatapp</string>
+	<key>PROJECT_ID</key>
+	<string>wayd-d9e1a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wayd-d9e1a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:263273102631:ios:9ba2fa9d641fe79223bd02</string>
+</dict>
+</plist>
